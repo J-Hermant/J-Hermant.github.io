@@ -1,3 +1,9 @@
+---
+layout: page
+title: Talks and events
+subtitle: 
+---
+
 - Maths-AI seminar talk at IMB - December 2024\
 *Gradient Correlation allows for faster optimization*
 - PGMOdays at EDF Lab Paris-Saclay - November 2024\
