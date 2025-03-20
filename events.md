@@ -3,7 +3,7 @@ layout: page
 title: Talks and events
 subtitle: 
 ---
-- PEPR IA DAYS, CentraleSupelec, Gif sur Yvette -  Mars 2025\
+- PEPR IA DAYS 2025, CentraleSupelec, Gif sur Yvette -  Mars 2025\
   *Gradient correlation is needed to accelerate SGD with momentum*
 - PDE-AI Meeting, Université Paris-Cité, Paris - Mars 2025\
   *Accélération de Nesterov*
