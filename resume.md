@@ -27,3 +27,7 @@ IMB, University of Bordeaux.
 *May 2022-August 2022*\
 Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar001/fr/)\
 INRIA Sud-ouest, IMB, University of Bordeaux.
+
+### Language
+
+-French (Mother tonge), English (Fluent), Mandarin (Intermediate)
