@@ -30,4 +30,4 @@ INRIA Sud-ouest, IMB, University of Bordeaux.
 
 ### Language
 
--French (Mother tonge), English (Fluent), Mandarin (Intermediate)
+French (Mother tonge), English (Fluent), Mandarin (Intermediate)
