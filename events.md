@@ -3,8 +3,10 @@ layout: page
 title: Talks and events
 subtitle: 
 ---
+- ICLR 2025 (Poster presentation), Singapore - April 2025
+  * Gradient correlation is a key ingredient to accelerate SGD with momentum*
 - PEPR IA DAYS 2025, CentraleSupelec, Gif sur Yvette -  Mars 2025\
-  *Gradient correlation is needed to accelerate SGD with momentum*
+  *Gradient correlation is a key ingredient to accelerate SGD with momentum*
 - PDE-AI Meeting, Université Paris-Cité, Paris - Mars 2025\
   *Accélération de Nesterov*
 - Maths-AI seminar talk at IMB - December 2024\
