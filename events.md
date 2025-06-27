@@ -3,7 +3,7 @@ layout: page
 title: Talks and events
 subtitle: 
 ---
-- ICLR 2025 (Poster presentation), Singapore - April 2025
+- ICLR 2025 (Poster presentation), Singapore - April 2025\
   *Gradient correlation is a key ingredient to accelerate SGD with momentum*
 - PEPR IA DAYS 2025, CentraleSupelec, Gif sur Yvette -  Mars 2025\
   *Gradient correlation is a key ingredient to accelerate SGD with momentum*
