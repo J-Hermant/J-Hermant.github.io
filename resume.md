@@ -28,6 +28,10 @@ IMB, University of Bordeaux.
 Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar001/fr/)\
 INRIA Sud-ouest, IMB, University of Bordeaux.
 
+### Community
+- Reviewer for Journal of Optimization Theory and Application (JOTA) (3 papers)
+
 ### Language
 
 French (Mother tonge), English (Fluent), Mandarin (Intermediate)
+
