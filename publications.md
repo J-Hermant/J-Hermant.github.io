@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: 
 ---
-- *Provably Accelerated Imaging with Restarted Inertia and Score-based Image Priors*
+- *Provably Accelerated Imaging with Restarted Inertia and Score-based Image Priors*\
   Marien Renaud*, J-H*, Deliang Wei*, Yu Sun, arXiv Preprint.\
   [[arXiv]](https://arxiv.org/abs/2510.07470)
 - *Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm*\
