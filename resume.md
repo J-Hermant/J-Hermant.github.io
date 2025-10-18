@@ -29,7 +29,7 @@ Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar00
 INRIA Sud-ouest, IMB, University of Bordeaux.
 
 ### Community
-- Reviewer for Journal of Optimization Theory and Application (JOTA) 
+- Reviewer for International Conference on Learning Representations (ICLR) and Journal of Optimization Theory and Application (JOTA) 
 
 ### Language
 
