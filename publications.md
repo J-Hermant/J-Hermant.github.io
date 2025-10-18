@@ -15,3 +15,5 @@ subtitle:
 - *Study of the behaviour of Nesterov Accelerated Gradient in a non convex setting: the strongly quasar convex case*\
  J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/), arXiv Preprint.\
 [[arXiv]](https://arxiv.org/abs/2405.19809)
+
+\* : equal contribution.
