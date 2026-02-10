@@ -12,7 +12,7 @@ subtitle:
   *Gradient correlation is a key ingredient to accelerate SGD with momentum*
 - PDE-AI Meeting, Université Paris-Cité, Paris - Mars 2025\
   *Accélération de Nesterov*
-  ### 2024
+### 2024
 - Maths-AI seminar talk at IMB - December 2024\
 *Gradient Correlation allows for faster optimization*
 - PGMOdays at EDF Lab Paris-Saclay - November 2024\
