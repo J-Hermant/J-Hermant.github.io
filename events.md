@@ -4,7 +4,7 @@ title: Talks and events
 subtitle: 
 ---
  ### 2025
-- EUROPT 2025, University of Southampton, UK - July 2025
+- EUROPT 2025, University of Southampton, UK - July 2025\
  *Continuized Nesterov Acceleration to improve convergence speed in non convex optimization*
 - ICLR 2025 (Poster presentation), Singapore - April 2025\
   *Gradient correlation is a key ingredient to accelerate SGD with momentum*
