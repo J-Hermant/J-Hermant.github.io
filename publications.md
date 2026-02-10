@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 - **Continuized Nesterov Momentum Achieves the O(ε−7/4) Complexity without Additional Mechanisms**\
- J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/), [Lorick Huang](https://perso.math.univ-toulouse.fr/lhuang/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/), *arXiv Preprint. [[arXiv]](https://arxiv.org/abs/2602.05504)*\
+ J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/), [Lorick Huang](https://perso.math.univ-toulouse.fr/lhuang/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/), *arXiv Preprint.* [[arXiv]](https://arxiv.org/abs/2602.05504)
 - **Continuized Nesterov Acceleration for Non-Convex Optimization**\
  J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/), [Lorick Huang](https://perso.math.univ-toulouse.fr/lhuang/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/), *arXiv Preprint.*\
 [[arXiv]](https://arxiv.org/abs/2512.16533)
