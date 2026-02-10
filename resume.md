@@ -7,7 +7,7 @@ subtitle:
 ## Education
 
 - **PhD student**\
-*October 2023-*\
+*October 2023-Now*\
 Supervisors : [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
 IMB, University of Bordeaux.
 - **Master in [Stochastic and stastistic modelisation](https://uf-mi.u-bordeaux.fr/MSS/)**\
