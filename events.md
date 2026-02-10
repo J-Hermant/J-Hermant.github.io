@@ -3,6 +3,7 @@ layout: page
 title: Talks and events
 subtitle: 
 ---
+ ### 2025
 - EUROPT 2025, University of Southampton, UK - July 2025
  *Continuized Nesterov Acceleration to improve convergence speed in non convex optimization*
 - ICLR 2025 (Poster presentation), Singapore - April 2025\
@@ -11,6 +12,7 @@ subtitle:
   *Gradient correlation is a key ingredient to accelerate SGD with momentum*
 - PDE-AI Meeting, Université Paris-Cité, Paris - Mars 2025\
   *Accélération de Nesterov*
+  ### 2024
 - Maths-AI seminar talk at IMB - December 2024\
 *Gradient Correlation allows for faster optimization*
 - PGMOdays at EDF Lab Paris-Saclay - November 2024\
