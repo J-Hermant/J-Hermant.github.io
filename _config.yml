@@ -53,10 +53,11 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "julien.hermant@math.u-bordeaux.fr"
+  google-scholar: https://scholar.google.com/citations?hl=fr&user=1qlq42oAAAAJ
   github: J-Hermant
   linkedin: julien-hermant-136a0a221
   ORCID: 0009-0009-2060-8500
-  google-scholar: https://scholar.google.com/citations?hl=fr&user=1qlq42oAAAAJ
+  
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
