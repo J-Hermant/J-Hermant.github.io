@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications/Preprints
+title: Publications
 subtitle: 
 ---
 ## Conference Papers
