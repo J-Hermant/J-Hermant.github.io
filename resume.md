@@ -29,7 +29,7 @@ Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar00
 INRIA Sud-ouest, IMB, University of Bordeaux.
 
 ### Community
-- Reviewer for International Conference on Learning Representations (ICLR 2026), International Conference on Machine Learning (ICML 2026), Annals of Operations Research (ANOR) and Journal of Optimization Theory and Application (JOTA) 
+- Reviewer for Neural Information Processing Systems 2026, International Conference on Machine Learning 2026 (Awarded Gold Reviewer,at least top 25%), International Conference on Learning Representations 2026, Annals of Operations Research and Journal of Optimization Theory and Application
 
 ### Language
 
