@@ -28,8 +28,9 @@ IMB, University of Bordeaux.
 Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar001/fr/)\
 INRIA Sud-ouest, IMB, University of Bordeaux.
 
-### Community
-- Reviewer for Neural Information Processing Systems 2026, International Conference on Machine Learning 2026 (Awarded Gold Reviewer,at least top 25%), International Conference on Learning Representations 2026, Annals of Operations Research and Journal of Optimization Theory and Application
+### Reviewing service
+- Conference: Neurips 2026, ICML 2026 (Awarded Gold Reviewer,at least top 25%), ICLR 2026
+- Journal: Annals of Operations Research, Computational Optimization and Applications, TMLR, JOTA
 
 ### Language
 
