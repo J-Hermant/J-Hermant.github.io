@@ -19,7 +19,7 @@ subtitle:
 - **Accelerated Stochastic Zeroth-Order Quasar-Convex Optimization**\
   Eméric Gbaguidi\*, J-H\*, 2026, *arXiv Preprint.* [[arXiv]](https://arxiv.org/abs/2607.19965)
 - **Continuized Nesterov Momentum Achieves the O(ε−7/4) Complexity without Additional Mechanisms**\
- J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/), [Lorick Huang](https://perso.math.univ-toulouse.fr/lhuang/), [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/), 2026, *arXiv Preprint.* [[arXiv]](https://arxiv.org/abs/2602.05504)
+ J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/), [Lorick Huang](https://perso.math.univ-toulouse.fr/lhuang/), [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/) and [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/), 2026, *arXiv Preprint.* [[arXiv]](https://arxiv.org/abs/2602.05504)
 - **Acceleration for Polyak-Łojasiewicz Functions with a Gradient Aiming Condition**\
  J-H, 2026, *arXiv Preprint.* [[arXiv]](https://arxiv.org/abs/2602.10022)
 - **Continuized Nesterov Acceleration for Non-Convex Optimization**\
