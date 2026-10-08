@@ -29,8 +29,8 @@ Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar00
 INRIA Sud-ouest, IMB, University of Bordeaux.
 
 ### Reviewing service
-- Conference: Neurips 2026, ICML 2026 (Awarded Gold Reviewer,at least top 25%), ICLR 2026
-- Journal: Annals of Operations Research, Computational Optimization and Applications, TMLR, JOTA
+- Conference: ICLR 2027, AAAI 2027, Neurips 2026, ICML 2026 (Awarded Gold Reviewer,at least top 25%), ICLR 2026
+- Journal: ANOR, COAP, TMLR, JOTA
 
 ### Language
 
