@@ -6,7 +6,7 @@ subtitle:
 
 ## Education
 
-- **PhD**\
+- **PhD in applied mathematics**\
 *October 2023-October 2026*\
 Supervisors : [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
 IMB, University of Bordeaux.
