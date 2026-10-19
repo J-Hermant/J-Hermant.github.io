@@ -6,8 +6,8 @@ subtitle:
 
 ## Education
 
-- **PhD student**\
-*October 2023-Now*\
+- **PhD**\
+*October 2023-October 2026*\
 Supervisors : [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
 IMB, University of Bordeaux.
 - **Master in [Stochastic and stastistic modelisation](https://uf-mi.u-bordeaux.fr/MSS/)**\
@@ -29,7 +29,7 @@ Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar00
 INRIA Sud-ouest, IMB, University of Bordeaux.
 
 ### Reviewing service
-- Conference: ICLR 2027, AAAI 2027, Neurips 2026, ICML 2026 (Awarded Gold Reviewer,at least top 25%), ICLR 2026
+- Conference: ICLR 2027, AAAI 2027, Neurips 2026 (Awarded top reviewer), ICML 2026 (Awarded Gold Reviewer,at least top 25%), ICLR 2026
 - Journal: ANOR, COAP, TMLR, JOTA
 
 ### Language
